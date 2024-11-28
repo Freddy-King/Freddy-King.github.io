@@ -727,6 +727,16 @@ body{
         height: 200px;
     }
 
+    .knowledge__imga{
+        width: 200px;
+        height: 200px;
+    }
+
+    .blog__img{
+        width: 200px;
+        height: 200px;
+    }
+
     .questions__copy{
         width: 100%;
     }
